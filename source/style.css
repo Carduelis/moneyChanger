@@ -1,0 +1,19 @@
+.user {
+	overflow: hidden;
+	margin: 1rem 0;
+}
+.user .avatar {
+	box-shadow: 0 0 2px rgba(0,0,0,.2);
+	border: 3px solid transparent;
+	border-radius: 50%;
+	width: 7rem;
+	height: 7rem;
+	overflow: hidden;
+	float: left;
+	margin-right: 1rem;
+}
+
+.avatar img {
+	display: block;
+	width: 100%;
+}
